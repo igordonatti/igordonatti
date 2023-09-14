@@ -1,7 +1,10 @@
 ### Oiee!! Eu sou o Igor Donatti 👋
 
-- 🌱 Atualmente estudando React
+- 🌱 Atualmente estudando NestJS
 - 😄 Ele/dele
+- ⚽ Entusiasta de um bom futebol e Corinthiano
+- 🖥️ Graduando do curso de Engenharia de Computaçao
+- 📽️ Amante de toda forma de arte e suas expressões
 
 <div align="center">
   <a href="https://github.com/igordonatti">
