@@ -1,6 +1,6 @@
 ### Oiee!! Eu sou o Igor Donatti 👋
 
-- 🌱 Atualmente estudando NestJS
+- 🌱 Atualmente estudando NextJS
 - 😄 Ele/dele
 - ⚽ Entusiasta de um bom futebol e Corinthiano
 - 🖥️ Graduando do curso de Engenharia de Computaçao
