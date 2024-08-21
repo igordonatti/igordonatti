@@ -1,10 +1,10 @@
-### Oiee!! Eu sou o Igor Donatti 👋
+### Hey there! I'm Igor Donatti 👋
 
-- 🌱 Atualmente estudando NextJS
-- 😄 Ele/dele
-- ⚽ Entusiasta de um bom futebol e Corinthiano
-- 🖥️ Graduando do curso de Engenharia de Computaçao
-- 📽️ Amante de toda forma de arte e suas expressões
+🌱 Currently studying NextJS
+😄 He/Him
+⚽ Enthusiast of good football and a Corinthians fan
+🖥️ Computer Engineering graduate
+📽️ Lover of all forms of art and their expressions
 
 <div align="center">
   <a href="https://github.com/igordonatti">
