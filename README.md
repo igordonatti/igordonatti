@@ -4,7 +4,6 @@
 - 😄 He/Him
 - ⚽ Enthusiast of good football and a Corinthians fan
 - 🖥️ Computer Engineering graduate
-- 📽️ Lover of all forms of art and their expressions
 
 <div align="center">
   <a href="https://github.com/igordonatti">
