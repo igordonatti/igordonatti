@@ -1,6 +1,6 @@
 ### Hey there! I'm Igor Donatti 👋
 
-- 🌱 Currently studying NextJS
+- 🌱 Currently studying AI Agents
 - 😄 He/Him
 - ⚽ Enthusiast of good football and a Corinthians fan
 - 🖥️ Computer Engineering graduate
